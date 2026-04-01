@@ -1,11 +1,11 @@
-Line 1: original
+Line 1: changed on real-b
 Line 2: original
 Line 3: original
 
 Line 4: original
-Line 5: original
+Line 5: deleted on real-b
 Line 6: original
 
-Line 7: original
+Line 7: changed differently on real-b
 Line 8: original
 Line 9: original
