@@ -1,4 +1,3 @@
-Line 1: changed on multi-a
+Line 1: combined from multi-a and multi-b
 Line 2: original
-Line 3: changed on multi-a
-
+Line 3: combined from multi-a and multi-b
