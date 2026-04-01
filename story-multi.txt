@@ -1,3 +1,3 @@
-Line 1: original
+Line 1: changed on multi-b
 Line 2: original
-Line 3: original
+Line 3: changed on multi-b
