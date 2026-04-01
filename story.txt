@@ -1,1 +1,1 @@
-This line was changed on branch-a.
+This line combines changes from branch-a and branch-b.
