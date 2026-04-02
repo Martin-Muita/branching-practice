@@ -2,3 +2,8 @@ Key steps:
 1. Verify the outbreak
 2. Define and identify cases
 3. Describe data by time, place, and person
+
+Teaching notes:
+- Use a real outbreak example from recent years
+- Ask participants to sketch an epidemic curve
+
